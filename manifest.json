@@ -1,0 +1,15 @@
+{
+    "name": "Gay? Wikipedia",
+    "version": "1.0",
+    "description": "Turn Personal Life into Gay? in Wikipedia pages",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://en.wikipedia.org/wiki/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "browser_action": {
+        "default_icon": "icon.png"
+    }
+}
