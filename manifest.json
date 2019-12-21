@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "1.1",
     "name": "Gay? Wikipedia",
     "short_name": "Gay? Wikipedia",
-    "description": "Change the word \"Personal Life\" into \"Gay?\" on Wikipedia pages",
+    "description": "Change the word \"Personal Life\" to \"Gay?\" on Wikipedia pages",
     "author": "Lee Chu Yem",
     "icons": {
         "16": "images/icon16.png",
